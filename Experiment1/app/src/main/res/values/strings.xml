@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Experiment 1</string>
+    <string-array name="intype">
+        <item>软件工程</item>
+        <item>计算机科学与技术</item>
+        <item>信息安全</item>
+    </string-array>
+</resources>

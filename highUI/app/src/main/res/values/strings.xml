@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">highUI</string>
+
+    <string-array name="listView">
+        <item>hello</item>
+        <item>world</item>
+        <item>计算机</item>
+        <item>软件</item>
+    </string-array>
+</resources>

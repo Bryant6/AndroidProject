@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Experiment2</string>
+
+    <array name="img">
+        <item>@drawable/lijiang</item>
+        <item>@drawable/qiao</item>
+        <item>@drawable/shuangta</item>
+        <item>@drawable/shui</item>
+        <item>@drawable/xiangbi</item>
+    </array>
+</resources>
